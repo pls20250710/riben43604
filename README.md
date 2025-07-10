@@ -26,4 +26,4 @@
 多设备支持，随时随地
 无论您使用手机、平板还是电脑，这些平台均提供全方位的兼容支持。高清资源随时随地可用，满足您的多场景观影需求。
 
-<span style="display:none;">[Canonical link]( ）</span>
+<span style="display:none;">[Canonical link]( https://github.com/pls20250710/riben43604 ）</span>
